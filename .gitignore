@@ -1,0 +1,15 @@
+*.settings
+target
+*.classpath
+*.project
+*.externalToolBuilders
+bin
+classes
+META-INF
+*.mymetadata
+*.iml
+*.idea
+*.confirmed_dependencies
+*.dependencies
+manifest.json
+/fmzg-timer-all/*.gitignore
